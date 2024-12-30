@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @MelonMino
-- 👀 I’m interested in finding something to specialize in
-- 🌱 I’m currently learning Spigot-API in Java as well as Adult Living (send help)
-- 📫 Reach me via Discord by messaging @ melonmino
+👋 Bonjour, je suis @MelonMino - Alexandre Vigneault 🍉
+Titulaire d'un DEC en Programmation
+Développeur ~~à mes heures~~ aux heures qu'il me reste
+Axé sur le Web dynamique et l'orienté-objet
+  
+👀 Mes centres d'intérêts présentement:
 
-<!---
-MelonMino/MelonMino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Depuis que j'ai un emploi dans lequel je supporte directement des gens pour qui ses technologies sont essentielles pour communiquer et intéragir avec leur milieu de vie, et ce, à tous les jours:
+- La Domotique 🏠
+- L'Assistive Technology ♿
+  
+  Autrement, sous forme de loisirs:
+- Jeux Vidéos 🕹
+- Homelab 🌐 (Pterodactyl, Home Assistant, ...)
+- Préservation du numérique 💾
+- Recyclage électronique ♻
+- Game Design 📝
+  
+📫 Pour me contacter, je vous suggère de passer par Discord @ melonmino
