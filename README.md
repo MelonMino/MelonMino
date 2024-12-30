@@ -11,7 +11,7 @@ Développeur ~~à mes heures~~ aux heures qu'il me reste, axé sur le Web dynami
 - La Domotique 🏠
 - L'Assistive Technology ♿
   
-  Autrement, sous forme de loisirs:
+Autrement, sous forme de loisirs:
 - Jeux Vidéos 🕹
 - Homelab 🌐 (Pterodactyl, Home Assistant, ...)
 - Préservation du numérique 💾
