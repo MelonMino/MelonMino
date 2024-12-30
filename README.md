@@ -1,12 +1,11 @@
-👋 Bonjour, je suis @MelonMino - Alexandre Vigneault 🍉
+# 👋 Bonjour, je suis Alexandre Vigneault - MelonMino 🍉
 
 Titulaire d'un DEC en Programmation
 
-Développeur ~~à mes heures~~ aux heures qu'il me reste
+Développeur ~~à mes heures~~ aux heures qu'il me reste, axé sur le Web dynamique et l'orienté-objet
 
-Axé sur le Web dynamique et l'orienté-objet
-  
-👀 Mes centres d'intérêts présentement:
+
+## 👀 Mes centres d'intérêts:
 
   Depuis que j'ai un emploi dans lequel je supporte directement des gens pour qui ses technologies sont essentielles pour communiquer et intéragir avec leur milieu de vie, et ce, à tous les jours:
 - La Domotique 🏠
